@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Yash Tanwar
 
-<!--
-**YashTanwar02/YashTanwar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Full Stack Web Developer
+- AI & Backend Development Enthusiast
+- Working with Flask, PostgreSQL, REST APIs, and Gemini API
+- Currently learning MuleSoft Anypoint Platform at FUJITSU
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Languages
+Python, JavaScript
+
+### Frontend
+HTML5, CSS3, Bootstrap, React.js
+
+### Backend
+Flask, REST APIs
+
+### Database
+PostgreSQL
+
+### AI & APIs
+Gemini API, Prompt Engineering
+
+### Tools
+Git, GitHub, VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Test Management System
+Secure web-based test platform with authentication, OTP verification, and dashboards.
+
+### 🔹 Progress Bot
+AI-powered progress tracking platform with Gemini chatbot support.
+
+### 🔹 Career Guidance Bot
+Career recommendation system using Gemini API and Flask backend.
